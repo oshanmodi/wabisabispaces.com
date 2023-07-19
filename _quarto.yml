@@ -11,7 +11,7 @@ website:
     locale: en_US
   navbar:
     right:
-      - text: "About"
+      - text: "About Us"
         href: about.qmd
   page-footer:
     center: |
