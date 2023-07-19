@@ -1,0 +1,35 @@
+---
+image: images/logos/logov3.png
+format:
+  html:
+    link-external-newwindow: true
+about:
+  template: marquee  
+  links:
+    # - text: LinkedIn
+    #   icon: linkedin
+    #   url: "https://www.linkedin.com/in/oshanmodi/"
+    - text: Contact Us
+      icon: envelope
+      url: "mailto:contact@wabisabispaces.com"
+    - text: Book an Appointment
+      icon: calendar-check-fill
+      url: "https://calendly.com/oshanmodi/30-minute-meeting"
+comments: false
+---
+::: {.column-body}
+
+## Discover the Art of Wabi Sabi Living
+
+ Welcome to Wabi Sabi Spaces, where simplicity meets elegance, and imperfections find beauty. Step into a world of mindful design, inspired by the timeless Japanese philosophy of Wabi Sabi. Immerse yourself in spaces that evoke a sense of serenity, where every detail tells a story and each element is thoughtfully curated.
+
+## Explore Our Services
+
+Discover a range of interior design services that cater to your unique needs. From residential havens to inspiring workspaces and welcoming commercial venues, we infuse every project with the essence of Wabi Sabi. Let us guide you through a design journey that embodies soulful spaces, where time-honored traditions meet modern sensibilities.
+
+## Start Your Wabi Sabi Journey Today
+
+Experience the magic of Wabi Sabi in interior design. Explore our portfolio, learn more about our philosophy, and get inspired by the art of embracing imperfection. Contact us now to embark on a design adventure that celebrates the beauty of Wabi Sabi living. Your serene and soulful space awaits.
+
+
+:::
