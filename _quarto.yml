@@ -2,14 +2,18 @@ project:
   type: website
   output-dir: docs
 
+css: styles.css
+
 website:
-  title: "WabiSabi"
-  favicon: "images/logos/logov3"
+  title: Wabi Sabi
+  favicon: "images/logos/logo_ws_favicon_white_v3.png"
+
   site-url: https://wabisabispaces.com
-  description: "Soulful Spaces"
+  description: Soulful Spaces
   open-graph:
     locale: en_US
   navbar:
+    title: Wabi Sabi
     right:
       - text: "About Us"
         href: about.qmd
