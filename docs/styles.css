@@ -1,0 +1,6 @@
+/* css styles */
+
+link[rel="icon"] {
+    /* Add margins to the top, right, bottom, and left */
+    margin: -15px; /* You can adjust this value as needed */
+  }

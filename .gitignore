@@ -1,14 +1,10 @@
 # ignore everything
-*
-
+/*
 # except these files - 
-!docs/
+
+# this includes the docs folder.
+!docs 
+# once docs is included, we can add files inside the docs folders. In case we wanted to any sort of pattern matching, that would now work. Its redundant at this point. However if a specific file inside the docs folder had to be included, we would have to do it this way.
+!docs/*
 !.gitignore
 !README.md
-# _edited/
-# _v1/
-# _v2/
-# /.quarto/
-# posts/
-# images/
-# _quarto.yml
