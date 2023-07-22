@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# except these files - 
+!docs/
+!.gitignore
+!README.md
+# _edited/
+# _v1/
+# _v2/
+# /.quarto/
+# posts/
+# images/
+# _quarto.yml
